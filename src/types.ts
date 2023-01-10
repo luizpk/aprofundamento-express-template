@@ -12,3 +12,4 @@ export type TAccount = {
     balance: number,
     type: ACCOUNT_TYPE
 }
+
